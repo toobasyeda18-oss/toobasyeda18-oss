@@ -24,7 +24,7 @@ I'm an Information Technology graduate with published research in machine learni
 | :--- | :--- |
 | 🎓 **Education** | B.E. in Information Technology (CGPA: 8.5/10) • Certified in Cyber Security Management (KFUPM) |
 | 💼 **Experience** | Cyber Security Intern (Blackbuck Engineering Pvt. Ltd.) • Full-Stack Development Intern (SkillVetex) |
-| 🌱 **Research Focus** | Artificial Intelligence, Computer Vision, Local RAG Systems, Intelligent Security Systems |
+| 🌱 **Learning** | Artificial Intelligence, Computer Vision, Local RAG Systems, Intelligent Security Systems |
 | 📍 **Location** | Dammam, Saudi Arabia |
 
 ---
