@@ -23,7 +23,7 @@ I'm an Information Technology graduate with published research in machine learni
 | | |
 | :--- | :--- |
 | 🎓 **Education** | B.E. in Information Technology (CGPA: 8.5/10) • Certified in Cyber Security Management (KFUPM) |
-| 💼 **Experience** | Cyber Security Intern (Bio-Mech Engineering) • Full-Stack Development Intern (MindMatrix) |
+| 💼 **Experience** | Cyber Security Intern (Blackbuck Engineering Pvt. Ltd.) • Full-Stack Development Intern (SkillVetex) |
 | 🌱 **Research Focus** | Artificial Intelligence, Computer Vision, Local RAG Systems, Intelligent Security Systems |
 | 📍 **Location** | Dammam, Saudi Arabia |
 
@@ -95,7 +95,7 @@ Detects and straightens a whiteboard in a photo, enhances it, and extracts the t
 `Python` `OpenCV` `RapidOCR` `Streamlit`
 
 #### 🛡️ IoTShield: Intelligent Intrusion Detection System for IoT Networks
-Published research paper (*IJSRD*, Vol. 13, Issue 2, 2025) • O Grade
+Published research paper (*IJSRD*, Vol. 13, Issue 2, 2025) • O Grade(highest)
 * Developed an intrusion detection system using SVM and ANN to classify IoT network traffic
 * Used the TON_IoT dataset with Synthetic Data Vault for data augmentation, improving accuracy and reducing false positives
 
